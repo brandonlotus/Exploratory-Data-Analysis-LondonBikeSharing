@@ -1,4 +1,4 @@
-# Exploratory Data Analysis ~ London Bike Sharing
+# Exploratory Data Analysis - London Bike Sharing
 
 ## Latar Belakang
 London Bike Sharing merupakan skema penyewaan sepeda umum di London yang mulai beroperasi pada tahun 2010. Skema penyewaan ini  mendorong warga untuk mulai bersepeda di London. Biaya penyewaan sepeda sejumlah £2 untuk tiap 30 menit, dengan batas maksimal penyewaan selama 24 jam. Sistem penyewaan dapat melalui aplikasi maupun layar interaktif di setiap docking station.
